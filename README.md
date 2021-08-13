@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shamsnaved
-- 👀 I’m interested in Pythong scripting, DevOps, Linux.
+- 👀 I’m interested in Python scripting, Kubernetes, Ansible, Linux.
 - 🌱 I’m currently learning DevOps technologies.
-- 💞️ I’m looking to collaborate on Kubernetes, Ansible, and Server automation Projects
+- 💞️ I’m looking to collaborate on Kubernetes, Ansible, Python and Server automation Projects
 - 📫 How to reach me ...
 
 <!---
